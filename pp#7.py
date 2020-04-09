@@ -1,6 +1,5 @@
-print ('Corin Price-Howard 323')
+print ('Corin')
 print ('11/19/17')
-print ('Week 3')
 print ('Program 4 Annual Inflation Rate')
 
 currentPrice = 11.00
