@@ -1,7 +1,6 @@
-#Corin Price-Howard, BIS 323
+#Corin
 #Program's Completion Date: 11/26/17
-#Week Number: 4
-#Program 5: Business Expenses
+#Business Expenses
 # #####################
 
 #lodging-1.txt file
@@ -39,7 +38,11 @@ infile = open ('gas.txt', 'rt')
 text = infile.read()
 print (text)
 
-gas_sum = 35.23+ 42.67+ 32.65+ 43.12+ 34.67
+gas_sum = 35.23
++ 42.67
++ 32.65
++ 43.12
++ 34.67
 print ('\nThe sum of your expenses are:', (format(gas_sum, ',.2f')))
 
 gas_average = gas_sum/5
