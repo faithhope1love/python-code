@@ -1,7 +1,6 @@
-#Corin Price-Howard, BIS 323
+#Corin
 #Program's Completion Date: 12/17/17
-#Week Number: 7
-#Program 9: [Individual Class]
+#[Individual Class]
 # #####################
 
 #PART 1
