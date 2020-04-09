@@ -19,7 +19,7 @@ def main():
         #Read department
         dept = employee_file.readline()
         #Strip new lines will separate the file into sections
-        first = first.rstrip('\n')
+        first = first.rstrip('\n') 
         phone_etn = phone_etn.rstrip('\n')
         dept = dept.rstrip('\n')
         #User input for employee search. Enter employee's last name.
