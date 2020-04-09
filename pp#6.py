@@ -18,7 +18,7 @@ def main():
     
     message()
 
-def message():
+def message(): 
     
     print ('The price of object has changed.')
     #Display Price Change of Item
