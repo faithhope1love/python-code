@@ -1,6 +1,5 @@
-print('Corin Price-Howard 323')
+print('Corin')
 print('11/14/17')
-print('Week 2')
 print('Turkey Day Items and Sale Prices')
 
 count = 0
