@@ -70,7 +70,7 @@ def main():
         
 #Display current status of an instantiated object
 print('This is the name and mail address entered for the first individual: \n')
-print(['Robert', 'King', '317 E.Street ', 'Philadelphia, ', '19171'] )
+print(['Carnelly', 'King', '317 E.Street ', 'New York, ', '19171'] )
           
 #Empty list for objects
 first = []
@@ -126,7 +126,7 @@ class Patients(Individuals):
             self.pain_level = pain_level
 
 #Indidivuals
-indiv_1 = ('Robert', 'King', indiv_1)
+indiv_1 = ('Carnelly', 'King', indiv_1)
 indiv_2 = ('Corin', 'Queen', '277 E.Street ', 'Philadelphia, ', '19147') 
 indiv_3 = ('Faith', 'Heaven', '937 W.Street ', 'Los Angeles, ', '90013') 
 indiv_4 = ('Aiden', 'Hell', '192 W.Street ', 'Los Angeles, ', '90005')
