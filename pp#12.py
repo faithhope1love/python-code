@@ -1,7 +1,6 @@
-#Corin Price-Howard, BIS 323
+#Corin
 #Program's Completion Date: 12/3/17
-#Week Number: 5
-#Program 6: [Olympic Scoring]
+#[Olympic Scoring]
 # ####################
 
 #Number of Judges
