@@ -20,7 +20,7 @@ indiv_1 = Individuals(input, input, '\n317 E.Street ', 'Philadelphia, ', '19171'
 indiv_2 = Individuals(input, input, '\n277 E.Street ', 'Philadelphia, ', '19147')
 indiv_3 = Individuals(input, input, '\n937 W.Street ', 'Los Angeles, ', '90013' )
 indiv_4 = Individuals(input, input, '\n192 W.Street ', 'Los Angeles, ', '90005')
-
+ 
 #Get individuals first and last name
 def get_first(self):
     return self.first
