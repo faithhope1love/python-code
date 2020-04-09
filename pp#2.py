@@ -16,7 +16,7 @@ class Individuals:
         self.zip_code = zip_code
         self.address = self.street + self.city + self.zip_code
 
-indiv_1 = Individuals('Robert', 'King', '\n317 E.Street ', 'Philadelphia, ', '19171' )
+indiv_1 = Individuals('Carnelly', 'King', '\n317 E.Street ', 'New York, ', '19171' )
 indiv_2 = Individuals('Corin', 'Queen', '\n277 E.Street ', 'Philadelphia, ', '19147')
 indiv_3 = Individuals('Faith', 'Heaven', '\n937 W.Street ', 'Los Angeles, ', '90013' )
 indiv_4 = Individuals('Aiden', 'Hell', '\n192 W.Street ', 'Los Angeles, ', '90005')
