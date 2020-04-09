@@ -1,6 +1,6 @@
 print ('Corin')
 print ('11/19/17')
-print ('Program 4 Annual Inflation Rate')
+print ('Annual Inflation Rate')
 
 currentPrice = 11.00
 previousPrice = 7.00
