@@ -49,7 +49,7 @@ gas_average = gas_sum/5
 print ('Your avaerage expenses are:', (format(gas_average, ',.2f')))
 
 infile.close()
-
+ 
 #total of all the files
 total = lodging_sum + dining1_sum + gas_sum
 print ('\nThe total expenses from the following files lodging-1.txt, dining-1.txt, and gas.txt are:', (format(total, ',.2f')))
