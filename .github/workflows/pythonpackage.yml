@@ -1,0 +1,18 @@
+found = 0
+
+myDict = {"c" : "cat",
+          "d" : "dog",
+          "e" : "elephant"}
+
+ans = input("What animal do you like the most: cat, dog, elephant (c/d/e)? ")
+
+for entry in myDict:
+    if entry == ans:
+        print("Oh, a " + myDict[ans] + " is a nice animal! ")
+        found = 1
+        break
+
+if found != 1:
+    print("Unfortunately, c, d, or e were not entered.")     
+
+input("\n\nPress the enter key to exit.")
