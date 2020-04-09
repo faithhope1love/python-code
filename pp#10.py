@@ -1,7 +1,6 @@
-#Corin Price-Howard, BIS 323
+#Corin
 #Program's Completion Date: 12/10/17
-#Week Number: 6
-#Program 8: [Employee Search]
+#[Employee Search]
 # ####################
 
 def main():
